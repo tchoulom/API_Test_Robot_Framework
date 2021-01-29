@@ -1,0 +1,16 @@
+{
+  "firstname": "Aayush",
+  "lastName": "Paudel",
+  "age": 22,
+  "address": {
+    "street": "21 street",
+    "city": "Kathmandu",
+    "state": "Ktm"
+  },
+  "contact": [
+    {"type": "landline",
+    "number": "12345"},
+    {"type": "mobile",
+    "number": "987656"}
+  ]
+}
